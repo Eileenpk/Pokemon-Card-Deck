@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Eileenpk/Pokemon-card-deck)
-- Live Site URL: [live site](https://eileenpk.github.io/Pokemon-card-deck/)
+- Live Site URL: [live site](https://eileenpk.github.io/Pokemon-Card-Deck/)
 - API URL: [vercel] (https://graphql-pokemon2.vercel.app/)
 ### Built with
 
